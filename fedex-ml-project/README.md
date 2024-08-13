@@ -1,4 +1,4 @@
-fedex-air-delay
+FedEX Air Delay Preidction Project
 ==============================
 
 This project focuses on the air delay prediction of the FedEX company
